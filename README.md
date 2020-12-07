@@ -1,0 +1,2 @@
+# remaining_carbon_budgets
+This project quantifies different sources of uncertainty in the remaining carbon budgets. Code accompanying the Matthews et al. 2020 method described in the following paper:  Matthews, H. D.†, Tokarska, K.B.†, Rogelj, J., Smith, C.J., MacDougall, A. H., Haustein, K., Mengis, N., Sippel, S., Forster, P.M., Knutti, R. An integrated approach to quantifying uncertainties in the remaining carbon budget. Communications Earth and Environment. (2020 /accepted). †equal first authors link/doi: &lt;will be updated once published>       
